@@ -36,13 +36,14 @@
       "processor": "markdown/markdown"
     },
     {
-      "files": ["**/*.md/*.{js,tsx}"],
+      "files": ["src/**/*.{js,ts,tsx}"],
       "rules": {
-        "@typescript-eslint/explicit-module-boundary-types": "off",
-        "@typescript-eslint/no-unused-vars": "error",
-        "react/display-name": "off",
-        "no-unused-vars": "error",
-        "no-console": "off"
+        "@typescript-eslint/explicit-module-boundary-types": 0,
+        "@typescript-eslint/no-unused-vars": 1,
+        "@typescript-eslint/ban-ts-comment": 0,
+        "react/display-name": 0,
+        "no-unused-vars": 1,
+        "no-console": 0
       }
     }
   ]

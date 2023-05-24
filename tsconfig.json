@@ -17,5 +17,6 @@
     "paths": {
       "@designable/*": ["./packages/*/src"]
     }
-  }
+  },
+  "exclude": ["public", "build", "dist", "node_modules"]
 }

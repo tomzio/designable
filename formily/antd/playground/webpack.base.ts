@@ -3,7 +3,7 @@ import fs from 'fs-extra'
 import { GlobSync } from 'glob'
 import MiniCssExtractPlugin from 'mini-css-extract-plugin'
 import autoprefixer from 'autoprefixer'
-//import { getThemeVariables } from 'antd/dist/theme'
+import { getThemeVariables } from 'antd/dist/theme'
 
 const getWorkspaceAlias = () => {
   const basePath = path.resolve(__dirname, '../../../')
@@ -14,9 +14,7 @@ const getWorkspaceAlias = () => {
     workspaces.forEach((pattern) => {
       const { found } = new GlobSync(pattern, { cwd: basePath })
       found.forEach((name) => {
-        const pkg = fs.readJSONSync(
-          path.resolve(basePath, name, './package.json')
-        )
+        const pkg = fs.readJSONSync(path.resolve(basePath, name, './package.json'))
         results[pkg.name] = path.resolve(basePath, name, './src')
       })
     })
@@ -44,10 +42,10 @@ export default {
     alias: getWorkspaceAlias(),
   },
   externals: {
-    react: 'React',
-    'react-dom': 'ReactDOM',
-    moment: 'moment',
-    antd: 'antd',
+    // react: 'React',
+    // 'react-dom': 'ReactDOM',
+    // moment: 'moment',
+    // antd: 'antd',
   },
   module: {
     rules: [
@@ -80,9 +78,12 @@ export default {
           {
             loader: 'less-loader',
             options: {
-              // modifyVars: getThemeVariables({
-              //   dark: true, // 开启暗黑模式
-              // }),
+              path: ['node_modules/antd', 'node_modules/@formily/antd'],
+              modifyVars: getThemeVariables({
+                dark: false, // 开启暗黑模式
+                '@tooltip-color': '#404040',
+                '@tooltip-bg': '#fff',
+              }),
               javascriptEnabled: true,
             },
           },

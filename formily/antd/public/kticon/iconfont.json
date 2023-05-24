@@ -1,0 +1,3670 @@
+{
+  "id": "1731772",
+  "name": "kthis",
+  "font_family": "kthis",
+  "css_prefix_text": "kticon-",
+  "description": "kthis/webhis",
+  "glyphs": [
+    {
+      "icon_id": "35598045",
+      "name": "examine and approve",
+      "font_class": "a-examineandapprove",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "35523548",
+      "name": "High priced consumables",
+      "font_class": "a-Highpricedconsumables",
+      "unicode": "e804",
+      "unicode_decimal": 59396
+    },
+    {
+      "icon_id": "35446592",
+      "name": "Batch generation scheduling",
+      "font_class": "a-Batchgenerationscheduling",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "35406742",
+      "name": "quote",
+      "font_class": "quote1",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "35330174",
+      "name": "next stage",
+      "font_class": "a-nextstage",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "35329809",
+      "name": "Jump Path",
+      "font_class": "a-JumpPath",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "35329810",
+      "name": "Medical evaluation",
+      "font_class": "a-Medicalevaluation",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "35329811",
+      "name": "exit path",
+      "font_class": "a-exitpath",
+      "unicode": "e7ff",
+      "unicode_decimal": 59391
+    },
+    {
+      "icon_id": "35329812",
+      "name": "Path details",
+      "font_class": "a-Pathdetails",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "35300018",
+      "name": "emergency surgery",
+      "font_class": "a-emergencysurgery",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "35300019",
+      "name": "Viral surgery",
+      "font_class": "a-Viralsurgery",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "35299954",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "35299912",
+      "name": "Anesthesia arrangements",
+      "font_class": "a-Anesthesiaarrangements",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "35299913",
+      "name": "Surgical arrangements",
+      "font_class": "a-Surgicalarrangements",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "35299790",
+      "name": "Postoperative registration",
+      "font_class": "a-Postoperativeregistration",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "35299791",
+      "name": "Material consumption",
+      "font_class": "a-Materialconsumption",
+      "unicode": "e7f6",
+      "unicode_decimal": 59382
+    },
+    {
+      "icon_id": "35299792",
+      "name": "Surgical billing",
+      "font_class": "a-Surgicalbilling",
+      "unicode": "e7f7",
+      "unicode_decimal": 59383
+    },
+    {
+      "icon_id": "35272212",
+      "name": "drag",
+      "font_class": "drag",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "35231603",
+      "name": "No billing Drug testing",
+      "font_class": "a-NobillingDrugtesting",
+      "unicode": "e7f2",
+      "unicode_decimal": 59378
+    },
+    {
+      "icon_id": "35231604",
+      "name": "scientific research",
+      "font_class": "a-scientificresearch",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "35218705",
+      "name": "no charge",
+      "font_class": "a-nocharge",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "35218563",
+      "name": "anesthetic",
+      "font_class": "anesthetic1",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    },
+    {
+      "icon_id": "35147302",
+      "name": "Test tube - general",
+      "font_class": "a-Testtube-general",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "35147303",
+      "name": "Test tube - abnormal",
+      "font_class": "a-Testtube-abnormal",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "35111981",
+      "name": "Change reminder",
+      "font_class": "a-Changereminder",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "35111982",
+      "name": "not count the small change",
+      "font_class": "a-notcountthesmallchange",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "35098568",
+      "name": "Diametral midpoint",
+      "font_class": "a-Diametralmidpoint",
+      "unicode": "e7e9",
+      "unicode_decimal": 59369
+    },
+    {
+      "icon_id": "35098569",
+      "name": "Intermediate diameter to be entered",
+      "font_class": "a-Intermediatediametertobeentered",
+      "unicode": "e7ea",
+      "unicode_decimal": 59370
+    },
+    {
+      "icon_id": "35098570",
+      "name": "Outgoing",
+      "font_class": "Outgoing",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "34988767",
+      "name": "treat",
+      "font_class": "treat",
+      "unicode": "e7e8",
+      "unicode_decimal": 59368
+    },
+    {
+      "icon_id": "34986121",
+      "name": "Scan code payment",
+      "font_class": "a-Scancodepayment",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "34986122",
+      "name": "Reserve funds",
+      "font_class": "a-Reservefunds",
+      "unicode": "e7e2",
+      "unicode_decimal": 59362
+    },
+    {
+      "icon_id": "34986123",
+      "name": "bank card",
+      "font_class": "a-bankcard",
+      "unicode": "e7e3",
+      "unicode_decimal": 59363
+    },
+    {
+      "icon_id": "34986124",
+      "name": "Advance payment",
+      "font_class": "a-Advancepayment",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "34986125",
+      "name": "ICBC POS",
+      "font_class": "a-ICBCPOS",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "34986126",
+      "name": "cash",
+      "font_class": "cash",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "34986127",
+      "name": "Physical examination card",
+      "font_class": "a-Physicalexaminationcard",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "34767940",
+      "name": "closed loop",
+      "font_class": "a-closedloop",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "34720072",
+      "name": "Medication history information",
+      "font_class": "a-Medicationhistoryinformation",
+      "unicode": "e7de",
+      "unicode_decimal": 59358
+    },
+    {
+      "icon_id": "34720073",
+      "name": "Nursing documents",
+      "font_class": "a-Nursingdocuments",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "34643576",
+      "name": "Call station",
+      "font_class": "a-Callstation",
+      "unicode": "e7da",
+      "unicode_decimal": 59354
+    },
+    {
+      "icon_id": "34643577",
+      "name": "Call again",
+      "font_class": "a-Callagain",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "34643578",
+      "name": "Over sign",
+      "font_class": "a-Oversign",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "34643579",
+      "name": "Visit-doctor",
+      "font_class": "Visit-doctor",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    },
+    {
+      "icon_id": "34496624",
+      "name": "scan",
+      "font_class": "scan",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
+      "icon_id": "34250401",
+      "name": "Ward browse",
+      "font_class": "a-Wardbrowse",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "34202772",
+      "name": "Japanese chart reservation",
+      "font_class": "a-Japanesechartreservation",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    },
+    {
+      "icon_id": "34012207",
+      "name": "Medical technology appointment",
+      "font_class": "a-Medicaltechnologyappointment",
+      "unicode": "e7d3",
+      "unicode_decimal": 59347
+    },
+    {
+      "icon_id": "34012208",
+      "name": "Rescue information",
+      "font_class": "a-Rescueinformation",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    },
+    {
+      "icon_id": "34012209",
+      "name": "To be opened",
+      "font_class": "a-Tobeopened",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "34012210",
+      "name": "Payment locking query",
+      "font_class": "a-Paymentlockingquery",
+      "unicode": "e7d6",
+      "unicode_decimal": 59350
+    },
+    {
+      "icon_id": "33947535",
+      "name": "seal-2",
+      "font_class": "seal-2",
+      "unicode": "e7d2",
+      "unicode_decimal": 59346
+    },
+    {
+      "icon_id": "33886203",
+      "name": "Receive consultation",
+      "font_class": "a-Receiveconsultation",
+      "unicode": "e7d0",
+      "unicode_decimal": 59344
+    },
+    {
+      "icon_id": "33886204",
+      "name": "Antibiotics",
+      "font_class": "Antibiotics",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "33861879",
+      "name": "mns-emergency",
+      "font_class": "mns-emergency",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "33861880",
+      "name": "mns-lock",
+      "font_class": "mns-lock",
+      "unicode": "e7cf",
+      "unicode_decimal": 59343
+    },
+    {
+      "icon_id": "33852358",
+      "name": "View 360",
+      "font_class": "a-View360",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "33851334",
+      "name": "satisfied",
+      "font_class": "satisfied",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "33851335",
+      "name": "dissatisfied",
+      "font_class": "dissatisfied",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    },
+    {
+      "icon_id": "33846819",
+      "name": "Permission details",
+      "font_class": "a-Permissiondetails",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "33845378",
+      "name": "mns-man",
+      "font_class": "mns-man",
+      "unicode": "e7c8",
+      "unicode_decimal": 59336
+    },
+    {
+      "icon_id": "33845379",
+      "name": "mns-woman",
+      "font_class": "mns-woman",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "33761522",
+      "name": "Print Preview",
+      "font_class": "a-PrintPreview",
+      "unicode": "e7c7",
+      "unicode_decimal": 59335
+    },
+    {
+      "icon_id": "33719146",
+      "name": "seal",
+      "font_class": "seal1",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "32960575",
+      "name": "Pathological application",
+      "font_class": "pathological-application",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "32915779",
+      "name": "anyang logo",
+      "font_class": "anyang-logo",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    },
+    {
+      "icon_id": "32892547",
+      "name": "Visit Card",
+      "font_class": "visit-card",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    },
+    {
+      "icon_id": "32892548",
+      "name": "Electronic medical insurance",
+      "font_class": "electronic-medical-insurance",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "32892549",
+      "name": "Face scanning",
+      "font_class": "face-scanning",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "32516728",
+      "name": "edit-list",
+      "font_class": "edit-list",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "32515920",
+      "name": "Input signs-list",
+      "font_class": "input-signs-list",
+      "unicode": "e7be",
+      "unicode_decimal": 59326
+    },
+    {
+      "icon_id": "32515921",
+      "name": "Quote medical records",
+      "font_class": "a-Quotemedicalrecords",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "32491599",
+      "name": "Read Message-list",
+      "font_class": "a-ReadMessage-list",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "32491600",
+      "name": "Read Message",
+      "font_class": "a-ReadMessage",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "32300088",
+      "name": "Import-color",
+      "font_class": "Import-color",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "32299938",
+      "name": "send",
+      "font_class": "send",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "32299888",
+      "name": "copy-color",
+      "font_class": "copy-color",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "32294832",
+      "name": "preview",
+      "font_class": "preview1",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "32294833",
+      "name": "Change record",
+      "font_class": "a-Changerecord",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "32294834",
+      "name": "Refresh Reference",
+      "font_class": "a-RefreshReference",
+      "unicode": "e7b6",
+      "unicode_decimal": 59318
+    },
+    {
+      "icon_id": "32294835",
+      "name": "Print-green",
+      "font_class": "Print-green",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "32294836",
+      "name": "Medical Record Properties",
+      "font_class": "a-MedicalRecordProperties",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "32283854",
+      "name": "revoke-list",
+      "font_class": "revoke-list",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "32270099",
+      "name": "Save-list",
+      "font_class": "save-list",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "32270100",
+      "name": "export-list",
+      "font_class": "export-list",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    },
+    {
+      "icon_id": "32270101",
+      "name": "to examine-list",
+      "font_class": "toexamine-list",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "32270102",
+      "name": "Print-list",
+      "font_class": "print-list",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "32179120",
+      "name": "Medical record information-360",
+      "font_class": "a-Medicalrecordinformation-360",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "32179121",
+      "name": "Surgical information-360",
+      "font_class": "a-Surgicalinformation-360",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "32179122",
+      "name": "Order information-360",
+      "font_class": "a-Orderinformation-360",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "32179123",
+      "name": "Blood transfusion information-360",
+      "font_class": "a-Bloodtransfusioninformation-360",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "31909105",
+      "name": "mns-top to",
+      "font_class": "a-mns-topto",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "31909106",
+      "name": "mns-mute",
+      "font_class": "mns-mute",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "31738534",
+      "name": "copy-doctor visit",
+      "font_class": "copy-order-list",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "31738535",
+      "name": "paste-doctor visit",
+      "font_class": "paste-order-list",
+      "unicode": "e7a2",
+      "unicode_decimal": 59298
+    },
+    {
+      "icon_id": "31738536",
+      "name": "merge-doctor visit",
+      "font_class": "merge-order-list",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "31738327",
+      "name": "test-doctor visit",
+      "font_class": "lab-order",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "31737959",
+      "name": "blood transfusion-doctor visit",
+      "font_class": "blood-transfusion",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "31737087",
+      "name": "an examination-doctor visit",
+      "font_class": "examination",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "31737089",
+      "name": "customize-doctor visit",
+      "font_class": "custom",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    },
+    {
+      "icon_id": "31737091",
+      "name": "Print-doctor visit",
+      "font_class": "print-order-list",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "31737092",
+      "name": "large infusion-doctor visit",
+      "font_class": "transfusion",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "31737093",
+      "name": "save-doctor visit",
+      "font_class": "save-order",
+      "unicode": "e7a1",
+      "unicode_decimal": 59297
+    },
+    {
+      "icon_id": "31737095",
+      "name": "Operation-doctor visit",
+      "font_class": "ot",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "31737096",
+      "name": "historical doctor's order-doctor visit",
+      "font_class": "history",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "31737097",
+      "name": "herbal-doctor visit",
+      "font_class": "herb",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "31737099",
+      "name": "template-doctor visit",
+      "font_class": "template-order-list",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "31737100",
+      "name": "Save as template-doctor visit",
+      "font_class": "save-template",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "31717735",
+      "name": "Level 5 blue",
+      "font_class": "patient-mild",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "31661446",
+      "name": "trend",
+      "font_class": "trend",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "31646232",
+      "name": "Patient 360",
+      "font_class": "patient-360",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "31645811",
+      "name": "Medical report",
+      "font_class": "medical-report",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "31435932",
+      "name": "up to date",
+      "font_class": "up-to-date",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "31404994",
+      "name": "medical insurance settlement",
+      "font_class": "medical-insurance-settlement",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "31278537",
+      "name": "bed number",
+      "font_class": "bed-number",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "31225375",
+      "name": "paste",
+      "font_class": "paste",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "31225376",
+      "name": "electronic medical record",
+      "font_class": "a-electronicmedicalrecord",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "31225377",
+      "name": "copy-line",
+      "font_class": "copy-line",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "31225378",
+      "name": "Fill in the cost",
+      "font_class": "a-Fillinthecost",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "31074980",
+      "name": "Medical record attributes",
+      "font_class": "a-Medicalrecordattributes",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "31074981",
+      "name": "Save as",
+      "font_class": "a-Saveas",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "30927129",
+      "name": "hospitalized patients",
+      "font_class": "a-hospitalizedpatients",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "30556226",
+      "name": "cross",
+      "font_class": "cross",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "30164910",
+      "name": "account_notpaid",
+      "font_class": "pay-account-not",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "30164889",
+      "name": "cash_pay",
+      "font_class": "pay-cash",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "30164890",
+      "name": "account_pay",
+      "font_class": "pay-account",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "30012990",
+      "name": "doctor number",
+      "font_class": "visit-number",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "29851120",
+      "name": "mns-Not favorited",
+      "font_class": "a-mns-Notfavorited",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "29851121",
+      "name": "mns-Scanned",
+      "font_class": "mns-Scanned",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "29851122",
+      "name": "mns-not-yet-completed",
+      "font_class": "mns-not-yet-completed",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "29851123",
+      "name": "mns-xinyonghucha",
+      "font_class": "mns-xinyonghucha",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "29851124",
+      "name": "mns-revoke",
+      "font_class": "mns-revoke",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "29851125",
+      "name": "mns-ot-appointment",
+      "font_class": "mns-ot-appointment",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "29851126",
+      "name": "mns-pre-order",
+      "font_class": "mns-pre-order",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "29851127",
+      "name": "mns-right arrow",
+      "font_class": "a-mns-rightarrow",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "29851128",
+      "name": "mns-screen",
+      "font_class": "mns-screen",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "29851129",
+      "name": "mns-report",
+      "font_class": "mns-report",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "29851087",
+      "name": "mns-a-superlow",
+      "font_class": "mns-a-superlow",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "29851088",
+      "name": "mns-clear",
+      "font_class": "mns-clear",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "29851089",
+      "name": "mns-downward triangle",
+      "font_class": "a-mns-downwardtriangle",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "29851090",
+      "name": "mns-baby",
+      "font_class": "mns-baby",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "29851091",
+      "name": "mns-low",
+      "font_class": "mns-low",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "29851092",
+      "name": "mns-filter",
+      "font_class": "mns-filter",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "29851093",
+      "name": "mns-collect",
+      "font_class": "mns-collect",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "29851094",
+      "name": "mns-keyboard",
+      "font_class": "mns-keyboard",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "29851095",
+      "name": "mns-high",
+      "font_class": "mns-high",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "29851096",
+      "name": "mns-emr-status",
+      "font_class": "mns-emr-status",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "29851055",
+      "name": "mns-a-Diagnosticopinion",
+      "font_class": "mns-a-Diagnosticopinion",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "29851056",
+      "name": "mns-emr-no-submit",
+      "font_class": "mns-emr-no-submit",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "29851057",
+      "name": "mns-appointment-and-arrive",
+      "font_class": "mns-appointment-and-arrive",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "29851058",
+      "name": "mns-a-superhigh",
+      "font_class": "mns-a-superhigh",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "29851059",
+      "name": "mns-a-Inspectionitems",
+      "font_class": "mns-a-Inspectionitems",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "29851060",
+      "name": "mns-a-notscanned",
+      "font_class": "mns-a-notscanned",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "29851061",
+      "name": "mns-a-Sideslideicon",
+      "font_class": "mns-a-Sideslideicon",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "29851062",
+      "name": "mns-a-imagingdiagnosis",
+      "font_class": "mns-a-imagingdiagnosis",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "29851063",
+      "name": "mns-a-Identificationresults",
+      "font_class": "mns-a-Identificationresults",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "29851064",
+      "name": "mns-a-Inspectionapplicationinformation",
+      "font_class": "mns-a-Inspectionapplicationinformation",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "29771486",
+      "name": "medical insurance",
+      "font_class": "a-medicalinsurance",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "29733331",
+      "name": "add-charges",
+      "font_class": "add-charges",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "29727335",
+      "name": "free",
+      "font_class": "free",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "29601198",
+      "name": "multi-line input",
+      "font_class": "multi-line-input",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "29601199",
+      "name": "single line input",
+      "font_class": "single-line-input",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "29601004",
+      "name": "auto increment table",
+      "font_class": "autoin-crement-table",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "29601006",
+      "name": "container",
+      "font_class": "container",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "29598538",
+      "name": "diagnosis and treatment",
+      "font_class": "diagnosis-treatment",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "29598539",
+      "name": "layout table",
+      "font_class": "layout-table",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "29598541",
+      "name": "row-to-column form",
+      "font_class": "row-to-column-form",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "29498431",
+      "name": "order",
+      "font_class": "release",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "29498395",
+      "name": "Move down",
+      "font_class": "sort-reverse-down",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "29498396",
+      "name": "confirm",
+      "font_class": "confirmed-circle",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "29498397",
+      "name": "void",
+      "font_class": "void",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "29498398",
+      "name": "Move up",
+      "font_class": "sort-positive-up",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "29498399",
+      "name": "undone",
+      "font_class": "not-yet-completed",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "29498400",
+      "name": "stop",
+      "font_class": "stop-block",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "29498401",
+      "name": "input",
+      "font_class": "entry-triangle",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "29274403",
+      "name": "ch",
+      "font_class": "ch",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "29274008",
+      "name": "en",
+      "font_class": "en",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "29217005",
+      "name": "Doctor's order pending",
+      "font_class": "a-Doctorsorderpending1",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "29202612",
+      "name": "Doctor's order pending",
+      "font_class": "a-Doctorsorderpending",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "29095222",
+      "name": "View medical records",
+      "font_class": "a-Viewmedicalrecords",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "28638713",
+      "name": "Operation",
+      "font_class": "Operation",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "28638707",
+      "name": "Inpatient appointment",
+      "font_class": "a-Inpatientappointment",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "28638708",
+      "name": "Admission registration",
+      "font_class": "a-Admissionregistration",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "28587766",
+      "name": "Birthday",
+      "font_class": "Birthday",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "28587767",
+      "name": "ID card",
+      "font_class": "a-IDcard",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "28587769",
+      "name": "address",
+      "font_class": "address",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "28587770",
+      "name": "telephone",
+      "font_class": "telephone",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "28077410",
+      "name": "om-button",
+      "font_class": "om-button",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "28077411",
+      "name": "om-no style",
+      "font_class": "a-om-nostyle",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "28077412",
+      "name": "om-left",
+      "font_class": "om-left",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "28077413",
+      "name": "om-top",
+      "font_class": "om-top",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "28077414",
+      "name": "om-right",
+      "font_class": "om-right",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "28067460",
+      "name": "om-circle ",
+      "font_class": "om-circle",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "28067436",
+      "name": "om-up",
+      "font_class": "om-up",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "28067437",
+      "name": "om-down",
+      "font_class": "om-down",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "27976869",
+      "name": "pulse-mouth-temp",
+      "font_class": "pulse-mouth-temp",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "27976870",
+      "name": "pulse-anus-temp",
+      "font_class": "pulse-anus-temp",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "27976871",
+      "name": "pulse-axillary-temp",
+      "font_class": "pulse-axillary-temp",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "27976768",
+      "name": "circle",
+      "font_class": "circle",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "27976770",
+      "name": "arrow-up-thin-filled",
+      "font_class": "arrow-up-thin-filled1",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "27976772",
+      "name": "arrow-down-thin-filled",
+      "font_class": "arrow-down-thin-filled",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "27959142",
+      "name": "unread-critical-value",
+      "font_class": "unread-critical-value",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "27959143",
+      "name": "urgent-order",
+      "font_class": "urgent-order",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "27959144",
+      "name": "unsaved-critical-value",
+      "font_class": "unsaved-critical-value",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "27959140",
+      "name": "critical-value",
+      "font_class": "critical-value",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "27959135",
+      "name": "VTE prevention",
+      "font_class": "a-VTEprevention",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "27959087",
+      "name": "quarantine",
+      "font_class": "quarantine",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "27959089",
+      "name": "scald prevention",
+      "font_class": "a-scaldprevention",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "27959077",
+      "name": "order-execution",
+      "font_class": "order-execution",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "27959078",
+      "name": "privacy prevention",
+      "font_class": "a-privacyprevention",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "27959079",
+      "name": "package",
+      "font_class": "package1",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "27959080",
+      "name": "leave",
+      "font_class": "leave",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "27959081",
+      "name": "pressure score prevention",
+      "font_class": "a-pressurescoreprevention",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "27959082",
+      "name": "patient-tracking",
+      "font_class": "patient-tracking",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "27959083",
+      "name": "order-check",
+      "font_class": "order-check",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "27959064",
+      "name": "air-prevention",
+      "font_class": "air-prevention",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "27959065",
+      "name": "allergy",
+      "font_class": "allergy1",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "27959066",
+      "name": "contraindication",
+      "font_class": "contraindication",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "27959067",
+      "name": "contact-prevention",
+      "font_class": "contact-prevention",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "27959069",
+      "name": "fall-prevention",
+      "font_class": "fall-prevention",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "27959070",
+      "name": "droplet prevention",
+      "font_class": "a-dropletprevention",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "27952106",
+      "name": "Consultation application",
+      "font_class": "consultation-application",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "27853836",
+      "name": "line display",
+      "font_class": "a-linedisplay",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "27853837",
+      "name": "grid display",
+      "font_class": "a-griddisplay",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "27816965",
+      "name": "copy",
+      "font_class": "copy",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "27813432",
+      "name": "down",
+      "font_class": "down1",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "27813379",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "27813357",
+      "name": "Approval Process",
+      "font_class": "a-ApprovalProcess",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "27796243",
+      "name": "collection",
+      "font_class": "collection",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "27515348",
+      "name": "Batch Import",
+      "font_class": "a-BatchImport",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "27515349",
+      "name": "reset",
+      "font_class": "reset",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "27515350",
+      "name": "Alternative vaccines",
+      "font_class": "a-Alternativevaccines",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "27515351",
+      "name": "reserved",
+      "font_class": "reserved",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "27515352",
+      "name": "pending",
+      "font_class": "pending",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "27457088",
+      "name": "third day",
+      "font_class": "a-thirdday",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "27457089",
+      "name": "second day",
+      "font_class": "a-secondday",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "27457090",
+      "name": "first day",
+      "font_class": "a-firstday",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "27457009",
+      "name": "blood pressure pd",
+      "font_class": "a-bloodpressurepd",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "27457010",
+      "name": "blood pressure bid",
+      "font_class": "a-bloodpressurebid",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "27457011",
+      "name": "blood sugar after three meals",
+      "font_class": "a-bloodsugarafterthreemeals",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "27457012",
+      "name": "blood sugar random",
+      "font_class": "a-bloodsugarrandom",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "27457013",
+      "name": "Transfer in today",
+      "font_class": "a-Transferintoday",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "27456957",
+      "name": "quit",
+      "font_class": "quit",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "27456958",
+      "name": "Notice",
+      "font_class": "Notice",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "27456959",
+      "name": "Pick up the wheelchair",
+      "font_class": "a-Pickupthewheelchair",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "27456960",
+      "name": "picc patients",
+      "font_class": "a-piccpatients",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "27456961",
+      "name": "quilt cover",
+      "font_class": "a-quiltcover",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "27456962",
+      "name": "primary care",
+      "font_class": "a-primarycare",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "27456963",
+      "name": "Premium Care",
+      "font_class": "a-PremiumCare",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "27456964",
+      "name": "filter",
+      "font_class": "filter",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "27456949",
+      "name": "daytime",
+      "font_class": "daytime",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "27456950",
+      "name": "edit",
+      "font_class": "edit1",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "27456951",
+      "name": "Discharged today",
+      "font_class": "a-Dischargedtoday",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "27456952",
+      "name": "closure",
+      "font_class": "closure",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "27456953",
+      "name": "Column arrangement",
+      "font_class": "a-Columnarrangement",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "27456954",
+      "name": "bed cleaning",
+      "font_class": "a-bedcleaning",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "27456955",
+      "name": "Admission today",
+      "font_class": "a-Admissiontoday",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "27456956",
+      "name": "critically ill",
+      "font_class": "a-criticallyill",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "27456931",
+      "name": "seriously ill",
+      "font_class": "a-seriouslyill",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "27456932",
+      "name": "square arrangement",
+      "font_class": "a-squarearrangement",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "27456933",
+      "name": "sheet",
+      "font_class": "sheet",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "27456934",
+      "name": "surgery tomorrow",
+      "font_class": "a-surgerytomorrow",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "27456935",
+      "name": "record urine output",
+      "font_class": "a-recordurineoutput",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "27456936",
+      "name": "Transfer in today 2",
+      "font_class": "a-Transferintoday2",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "27456937",
+      "name": "set up",
+      "font_class": "a-setup",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "27456938",
+      "name": "Surgery today",
+      "font_class": "a-Surgerytoday",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "27432489",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "27423461",
+      "name": "delet",
+      "font_class": "delet",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "27423462",
+      "name": "font",
+      "font_class": "font",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "27423463",
+      "name": "move",
+      "font_class": "move",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "27287347",
+      "name": "yes-grey",
+      "font_class": "yes-grey",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "26976561",
+      "name": "Historical medical record reference",
+      "font_class": "emr-history-reference",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "26764187",
+      "name": "revoke",
+      "font_class": "revoke",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "26764155",
+      "name": "notice",
+      "font_class": "notice",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "26692285",
+      "name": "Multiple choice",
+      "font_class": "a-Multiplechoice",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "26692286",
+      "name": "Single choice",
+      "font_class": "a-Singlechoice",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "26692287",
+      "name": "picture",
+      "font_class": "picture",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "26691978",
+      "name": "input",
+      "font_class": "input",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "26691979",
+      "name": "Time component",
+      "font_class": "a-Timecomponent",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "26691980",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "26691981",
+      "name": "text",
+      "font_class": "text",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "26660899",
+      "name": "Entry status",
+      "font_class": "status-entry",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "26660896",
+      "name": "Confirm status",
+      "font_class": "status-confirm",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "26660897",
+      "name": "Stop status",
+      "font_class": "status-stop",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "26660106",
+      "name": "Non refundable fee",
+      "font_class": "refund-non",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "26660107",
+      "name": "Refunded",
+      "font_class": "refunded",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "26650723",
+      "name": "man and women",
+      "font_class": "a-manandwomen",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "26622810",
+      "name": "Special orders",
+      "font_class": "special-item",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "26295079",
+      "name": "Endangered patient",
+      "font_class": "patient-endangered",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "26295080",
+      "name": "Emergency patient",
+      "font_class": "patient-emergency",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "26295081",
+      "name": "Non-emergency patients",
+      "font_class": "patient-non-emergency",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "26295083",
+      "name": "Critically ill patient",
+      "font_class": "patient-critically",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "26294315",
+      "name": "Case has been written-submitted",
+      "font_class": "emr-submit",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "26294311",
+      "name": "Surgery appointment",
+      "font_class": "ot-appointment",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "26294312",
+      "name": "pre-order",
+      "font_class": "pre-order",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "26294313",
+      "name": "Make an appointment at the same time",
+      "font_class": "appointment-and-arrive",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "26294314",
+      "name": "Case has been written-unsubmitted",
+      "font_class": "emr-no-submit",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "26286614",
+      "name": "combo",
+      "font_class": "package-shopping-cart",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "26286613",
+      "name": "New patient",
+      "font_class": "new-patient",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "25075561",
+      "name": "weight",
+      "font_class": "weight",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "25075051",
+      "name": "patient orders",
+      "font_class": "a-patientorders",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "24808013",
+      "name": "template-b",
+      "font_class": "template-b",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "24808014",
+      "name": "otc",
+      "font_class": "otc",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "24808015",
+      "name": "template-a",
+      "font_class": "template-a",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "24306720",
+      "name": "on site registration",
+      "font_class": "a-onsiteregistration",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "24306721",
+      "name": "site number",
+      "font_class": "a-sitenumber",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "24099016",
+      "name": "not_package",
+      "font_class": "not-package",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "24099017",
+      "name": "package",
+      "font_class": "package",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "24099018",
+      "name": "group_package ",
+      "font_class": "group-package",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "23349418",
+      "name": "entry",
+      "font_class": "entry",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "23349419",
+      "name": "canceled",
+      "font_class": "canceled",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "23349420",
+      "name": "positive-sort",
+      "font_class": "positive-sort",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "23349421",
+      "name": "Issued",
+      "font_class": "issued",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "23349423",
+      "name": "drug-record",
+      "font_class": "drug-record",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "23349424",
+      "name": "stop",
+      "font_class": "stop1",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "23349425",
+      "name": "reverse-sort",
+      "font_class": "reverse-sort",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "23349426",
+      "name": "group",
+      "font_class": "group",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "23349427",
+      "name": "temporary-save",
+      "font_class": "temporary-save",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "23349428",
+      "name": "confirmed",
+      "font_class": "confirmed",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "23349429",
+      "name": "vital-sign",
+      "font_class": "vital-sign",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "23125282",
+      "name": "supplementary",
+      "font_class": "supplementary",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "22761501",
+      "name": "consumption-stay",
+      "font_class": "consumption-stay",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "22695182",
+      "name": "emergency-patient-1",
+      "font_class": "man-emergency",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "22695129",
+      "name": "emergency-patient-2",
+      "font_class": "woman-emergency",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "22695130",
+      "name": "locked-patient-1",
+      "font_class": "man-locked",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "22695131",
+      "name": "observation-patient-2",
+      "font_class": "woman-observation",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "22695132",
+      "name": "female-patient",
+      "font_class": "woman-circle-filled",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "22695133",
+      "name": "male-patient",
+      "font_class": "man-circle-filled",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "22695134",
+      "name": "baby-patient",
+      "font_class": "baby-circle-filled",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "22695135",
+      "name": "observation-patient-1",
+      "font_class": "man-observation",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "22695127",
+      "name": "locked-patient-2",
+      "font_class": "woman-locked",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "22678465",
+      "name": "ready blood",
+      "font_class": "blood-pre",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "22678466",
+      "name": "use blood",
+      "font_class": "blood-use",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "22677412",
+      "name": "test tube-lv",
+      "font_class": "test-tube-green",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "22677413",
+      "name": "test tube-zi",
+      "font_class": "test-tube-purple",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "22677414",
+      "name": "test tube-l",
+      "font_class": "test-tube-blue",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "22677415",
+      "name": "test tube-red",
+      "font_class": "test-tube-red",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "22677416",
+      "name": "test tube-cheng",
+      "font_class": "test-tube-orange",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "22677197",
+      "name": "test tube-b",
+      "font_class": "test-tube-black",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "22677190",
+      "name": "anesthetic",
+      "font_class": "anesthetic",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "22677191",
+      "name": "audit postpone",
+      "font_class": "audit-postpone",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "22677193",
+      "name": "urgent",
+      "font_class": "urgent",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "22677155",
+      "name": "skin test negative",
+      "font_class": "skin-test-negative",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "22676295",
+      "name": "skin test positive",
+      "font_class": "skin-test-positive",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "22676189",
+      "name": "skin test",
+      "font_class": "skin-test-unexecuted",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "22675598",
+      "name": " standing",
+      "font_class": "standing",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "22675225",
+      "name": " new standing",
+      "font_class": "new-standing",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "22218302",
+      "name": "emr-search",
+      "font_class": "emr-search",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "21811210",
+      "name": "consumption",
+      "font_class": "consumption",
+      "unicode": "eb1d",
+      "unicode_decimal": 60189
+    },
+    {
+      "icon_id": "19212700",
+      "name": "st",
+      "font_class": "st",
+      "unicode": "ea6c",
+      "unicode_decimal": 60012
+    },
+    {
+      "icon_id": "19104326",
+      "name": "expect",
+      "font_class": "expect",
+      "unicode": "ea40",
+      "unicode_decimal": 59968
+    },
+    {
+      "icon_id": "18463084",
+      "name": "serious",
+      "font_class": "serious",
+      "unicode": "ea1c",
+      "unicode_decimal": 59932
+    },
+    {
+      "icon_id": "18463078",
+      "name": "emergency",
+      "font_class": "emergency",
+      "unicode": "ea1b",
+      "unicode_decimal": 59931
+    },
+    {
+      "icon_id": "18463018",
+      "name": "ordinary",
+      "font_class": "ordinary",
+      "unicode": "ea1a",
+      "unicode_decimal": 59930
+    },
+    {
+      "icon_id": "18161177",
+      "name": "quote",
+      "font_class": "quote",
+      "unicode": "ea00",
+      "unicode_decimal": 59904
+    },
+    {
+      "icon_id": "17467059",
+      "name": "tag",
+      "font_class": "tag",
+      "unicode": "e9b7",
+      "unicode_decimal": 59831
+    },
+    {
+      "icon_id": "17467054",
+      "name": "allergy-line",
+      "font_class": "allergy-line",
+      "unicode": "e9b6",
+      "unicode_decimal": 59830
+    },
+    {
+      "icon_id": "16744926",
+      "name": "blacklist",
+      "font_class": "blacklist",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "16620571",
+      "name": "right-line",
+      "font_class": "right-line",
+      "unicode": "e95f",
+      "unicode_decimal": 59743
+    },
+    {
+      "icon_id": "16620504",
+      "name": "left-line",
+      "font_class": "left-line",
+      "unicode": "e95e",
+      "unicode_decimal": 59742
+    },
+    {
+      "icon_id": "16620478",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e95d",
+      "unicode_decimal": 59741
+    },
+    {
+      "icon_id": "16620450",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e95c",
+      "unicode_decimal": 59740
+    },
+    {
+      "icon_id": "16560236",
+      "name": "bottle",
+      "font_class": "bottle",
+      "unicode": "e95b",
+      "unicode_decimal": 59739
+    },
+    {
+      "icon_id": "16513776",
+      "name": "print-completed",
+      "font_class": "print-completed",
+      "unicode": "e95a",
+      "unicode_decimal": 59738
+    },
+    {
+      "icon_id": "16513731",
+      "name": "not-printed",
+      "font_class": "not-printed",
+      "unicode": "e959",
+      "unicode_decimal": 59737
+    },
+    {
+      "icon_id": "16513693",
+      "name": "file-loading",
+      "font_class": "file-loading",
+      "unicode": "e958",
+      "unicode_decimal": 59736
+    },
+    {
+      "icon_id": "16481973",
+      "name": "adjustment",
+      "font_class": "adjustment",
+      "unicode": "e956",
+      "unicode_decimal": 59734
+    },
+    {
+      "icon_id": "16481949",
+      "name": "ca",
+      "font_class": "ca",
+      "unicode": "e955",
+      "unicode_decimal": 59733
+    },
+    {
+      "icon_id": "16481923",
+      "name": "drug-explanation",
+      "font_class": "drug-explanation",
+      "unicode": "e954",
+      "unicode_decimal": 59732
+    },
+    {
+      "icon_id": "16385936",
+      "name": "number",
+      "font_class": "number",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "16385938",
+      "name": "tel",
+      "font_class": "tel",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "16385939",
+      "name": "pregnant",
+      "font_class": "pregnant",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "16385940",
+      "name": "purse",
+      "font_class": "purse",
+      "unicode": "e792",
+      "unicode_decimal": 59282
+    },
+    {
+      "icon_id": "16385941",
+      "name": "cake",
+      "font_class": "cake",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "16385942",
+      "name": "wallet",
+      "font_class": "wallet",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "16385943",
+      "name": "diamond-border",
+      "font_class": "diamond-border",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "16385944",
+      "name": "insurance-line",
+      "font_class": "insurance-line",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "16385946",
+      "name": "moneybag",
+      "font_class": "moneybag",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "16383146",
+      "name": "footprint",
+      "font_class": "footprint",
+      "unicode": "e94b",
+      "unicode_decimal": 59723
+    },
+    {
+      "icon_id": "16257950",
+      "name": "painscore-6",
+      "font_class": "painscore-6",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "16257951",
+      "name": "painscore-0",
+      "font_class": "painscore-0",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "16257952",
+      "name": "painscore-4",
+      "font_class": "painscore-4",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "16257953",
+      "name": "painscore-2",
+      "font_class": "painscore-2",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "16257954",
+      "name": "painscore-8",
+      "font_class": "painscore-8",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "16257955",
+      "name": "painscore-10",
+      "font_class": "painscore-10",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "15453052",
+      "name": "stop",
+      "font_class": "stop",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "15452992",
+      "name": "check-circle-filled",
+      "font_class": "check-circle-filled",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "15449977",
+      "name": "exam-apm",
+      "font_class": "exam-apm",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "15449918",
+      "name": "triage",
+      "font_class": "triage",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "15449856",
+      "name": "swap-square",
+      "font_class": "swap-square",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "15449710",
+      "name": "secret",
+      "font_class": "secret",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "15449726",
+      "name": "no-permission",
+      "font_class": "no-permission",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "15449729",
+      "name": "no-data",
+      "font_class": "no-data",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "15449319",
+      "name": "read-only",
+      "font_class": "read-only",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "15449323",
+      "name": "diamond-filled",
+      "font_class": "diamond-filled",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "15449324",
+      "name": "defunct",
+      "font_class": "defunct",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "15449325",
+      "name": "medical-image",
+      "font_class": "medical-image",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "15449327",
+      "name": "redo",
+      "font_class": "redo",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "15449328",
+      "name": "preview",
+      "font_class": "preview",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "15449329",
+      "name": "info-circle-filled",
+      "font_class": "info-circle-filled",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "15449331",
+      "name": "right-unfold",
+      "font_class": "right-unfold",
+      "unicode": "e785",
+      "unicode_decimal": 59269
+    },
+    {
+      "icon_id": "15449333",
+      "name": "redo-circle",
+      "font_class": "redo-circle",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "15449334",
+      "name": "right-fold",
+      "font_class": "right-fold",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "15449159",
+      "name": "file-html",
+      "font_class": "file-html",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "15449178",
+      "name": "vaccine",
+      "font_class": "vaccine",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "15448777",
+      "name": "plus-circle-filled",
+      "font_class": "plus-circle-filled",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "15448778",
+      "name": "select",
+      "font_class": "select",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "15448780",
+      "name": "top",
+      "font_class": "top",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "15448781",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "15448782",
+      "name": "bottom-square",
+      "font_class": "bottom-square",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "15448783",
+      "name": "download-filled",
+      "font_class": "download-filled",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "15448784",
+      "name": "minus-circle-filled",
+      "font_class": "minus-circle-filled",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "15448786",
+      "name": "add-square",
+      "font_class": "add-square",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "15448787",
+      "name": "arrow-up-thin-filled",
+      "font_class": "arrow-up-thin-filled",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "15448788",
+      "name": "arrow-down-filled",
+      "font_class": "arrow-down-filled",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "15448791",
+      "name": "edit-square",
+      "font_class": "edit-square",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "15448792",
+      "name": "play-circle",
+      "font_class": "play-circle",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "15448793",
+      "name": "bottom",
+      "font_class": "bottom",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "15448941",
+      "name": "top-square",
+      "font_class": "top-square",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "15448715",
+      "name": "system",
+      "font_class": "system",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "15448720",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "15448724",
+      "name": "plus-square-filled",
+      "font_class": "plus-square-filled",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "15448727",
+      "name": "refund",
+      "font_class": "refund",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "15448602",
+      "name": "gift",
+      "font_class": "gift",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "15448603",
+      "name": "check-circle",
+      "font_class": "check-circle",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "15448608",
+      "name": "question-circle-filled",
+      "font_class": "question-circle-filled",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
+      "icon_id": "15448610",
+      "name": "gift-filled",
+      "font_class": "gift-filled",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "15448612",
+      "name": "refresh",
+      "font_class": "refresh",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "15448613",
+      "name": "lock-filled",
+      "font_class": "lock-filled",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "15448162",
+      "name": "stop-circle",
+      "font_class": "stop-circle",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "15448163",
+      "name": "stop-circle-filled",
+      "font_class": "stop-circle-filled",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "15448164",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "15448165",
+      "name": "arrow-up-filled",
+      "font_class": "arrow-up-filled",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "15448166",
+      "name": "scissors-circle-filled",
+      "font_class": "scissors-circle-filled",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "15448168",
+      "name": "delete-filled",
+      "font_class": "delete-filled",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "15448169",
+      "name": "calendar",
+      "font_class": "calendar",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "15448170",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "15448171",
+      "name": "remarks-circle-filled",
+      "font_class": "remarks-circle-filled",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "15448172",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "15448173",
+      "name": "file-search",
+      "font_class": "file-search",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "15448174",
+      "name": "stethoscope-circle-filled",
+      "font_class": "stethoscope-circle-filled",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "15448491",
+      "name": "close-circle",
+      "font_class": "close-circle",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "15447971",
+      "name": "clear",
+      "font_class": "clear",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "15447972",
+      "name": "folder-unsave-circle",
+      "font_class": "folder-unsave-circle",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "15447973",
+      "name": "template",
+      "font_class": "template",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "15447974",
+      "name": "saveas",
+      "font_class": "saveas",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "15447975",
+      "name": "seal-circle-filled",
+      "font_class": "seal-circle-filled",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "15447978",
+      "name": "close-square",
+      "font_class": "close-square",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "15447981",
+      "name": "exam",
+      "font_class": "exam",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "15447865",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "15447867",
+      "name": "doctor-filled",
+      "font_class": "doctor-filled",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "15447877",
+      "name": "ward",
+      "font_class": "ward",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "15447236",
+      "name": "exam-report-issued",
+      "font_class": "exam-report-issued",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "15447237",
+      "name": "seal",
+      "font_class": "seal",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "15447238",
+      "name": "lab",
+      "font_class": "lab",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "15447239",
+      "name": "folder-unsave-filled",
+      "font_class": "folder-unsave-filled",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "15447244",
+      "name": "calculator",
+      "font_class": "calculator",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "15447246",
+      "name": "lab-report-issued",
+      "font_class": "lab-report-issued",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "15447247",
+      "name": "emergency-circle",
+      "font_class": "emergency-circle",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "15447596",
+      "name": "exam-circle-filled",
+      "font_class": "exam-circle-filled",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "15447602",
+      "name": "lab-circle-filled",
+      "font_class": "lab-circle-filled",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "15447219",
+      "name": "square-filled",
+      "font_class": "square-filled",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "15447196",
+      "name": "no-red",
+      "font_class": "no-red",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "15447000",
+      "name": "more-circle",
+      "font_class": "more-circle",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "15447001",
+      "name": "close-circle-filled",
+      "font_class": "close-circle-filled",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "15447002",
+      "name": "high-alert-medicine",
+      "font_class": "high-alert-medicine",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "15447003",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "15447004",
+      "name": "share-circle-filled",
+      "font_class": "share-circle-filled",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "15447005",
+      "name": "charge",
+      "font_class": "charge",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "15447006",
+      "name": "high-alert",
+      "font_class": "high-alert",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "15447007",
+      "name": "allergy",
+      "font_class": "allergy",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "15447008",
+      "name": "interference",
+      "font_class": "interference",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "15446712",
+      "name": "flag",
+      "font_class": "flag",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "15446713",
+      "name": "print",
+      "font_class": "print",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "15446715",
+      "name": "export",
+      "font_class": "export",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "15446716",
+      "name": "menu-arrow",
+      "font_class": "menu-arrow",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "15446718",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "15446719",
+      "name": "qrcode",
+      "font_class": "qrcode",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "15446691",
+      "name": "insurance",
+      "font_class": "insurance",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "15446693",
+      "name": "report",
+      "font_class": "report",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "15446696",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "15446389",
+      "name": "file-txt",
+      "font_class": "file-txt",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "15446390",
+      "name": "file-pdf",
+      "font_class": "file-pdf",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "15446391",
+      "name": "file-word",
+      "font_class": "file-word",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "15446394",
+      "name": "file-unknown",
+      "font_class": "file-unknown",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "15446396",
+      "name": "file-jpg",
+      "font_class": "file-jpg",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "15348182",
+      "name": "yes-green",
+      "font_class": "yes-green",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "15348161",
+      "name": "warning-filled",
+      "font_class": "warning-filled",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "15348162",
+      "name": "exclamation-circle-filled",
+      "font_class": "exclamation-circle-filled",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "15348165",
+      "name": "unread",
+      "font_class": "unread",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "15348167",
+      "name": "read",
+      "font_class": "read",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "14702676",
+      "name": "list-mode",
+      "font_class": "list-mode",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "14693904",
+      "name": "bell",
+      "font_class": "bell",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "14693905",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "14693906",
+      "name": "warning-circle-filled",
+      "font_class": "warning-circle-filled",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "14693907",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "14693908",
+      "name": "question-circle",
+      "font_class": "question-circle",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "14693909",
+      "name": "menu-unfold",
+      "font_class": "menu-unfold",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "14693910",
+      "name": "double-right",
+      "font_class": "double-right",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "14693911",
+      "name": "unordered-list",
+      "font_class": "unordered-list",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "14693912",
+      "name": "woman",
+      "font_class": "woman",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "14693914",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "14693915",
+      "name": "unknown-sex",
+      "font_class": "unknown-sex",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "14693916",
+      "name": "man",
+      "font_class": "man",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "14693917",
+      "name": "menu-fold",
+      "font_class": "menu-fold",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "14693724",
+      "name": "clock",
+      "font_class": "clock",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "14693725",
+      "name": "card-mode",
+      "font_class": "card-mode",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "14693726",
+      "name": "id",
+      "font_class": "id",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "14693727",
+      "name": "stethoscope",
+      "font_class": "stethoscope",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "14693728",
+      "name": "doctor",
+      "font_class": "doctor",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "14693729",
+      "name": "aim",
+      "font_class": "aim",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "14692758",
+      "name": "reply-time",
+      "font_class": "reply-time",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "14692759",
+      "name": "diamond",
+      "font_class": "diamond",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "14692760",
+      "name": "bed",
+      "font_class": "bed",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "14692761",
+      "name": "remarks",
+      "font_class": "remarks",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "14692762",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "14692763",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "14692764",
+      "name": "consultation",
+      "font_class": "consultation",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "14692765",
+      "name": "eye-invisible",
+      "font_class": "eye-invisible",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "14692766",
+      "name": "reply-doctor",
+      "font_class": "reply-doctor",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "14692767",
+      "name": "visit-status",
+      "font_class": "visit-status",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "14692768",
+      "name": "medical-record",
+      "font_class": "medical-record",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "14692757",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    }
+  ]
+}

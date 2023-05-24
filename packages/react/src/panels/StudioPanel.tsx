@@ -6,17 +6,14 @@ export interface IStudioPanelProps {
   style?: React.CSSProperties
   className?: string
   logo?: React.ReactNode
+  switchSchema?: React.ReactNode
   actions?: React.ReactNode
   prefixCls?: string
   theme?: string
   position?: React.ComponentProps<typeof Layout>['position']
 }
 
-const StudioPanelInternal: React.FC<IStudioPanelProps> = ({
-  logo,
-  actions,
-  ...props
-}) => {
+const StudioPanelInternal: React.FC<IStudioPanelProps> = ({ logo, switchSchema, actions, ...props }) => {
   const prefix = usePrefix('main-panel')
   const position = usePosition()
   const classNameBase = cls('root', position, props.className)
@@ -24,7 +21,10 @@ const StudioPanelInternal: React.FC<IStudioPanelProps> = ({
     return (
       <div {...props} className={cls(`${prefix}-container`, classNameBase)}>
         <div className={prefix + '-header'}>
-          <div className={prefix + '-header-logo'}>{logo}</div>
+          <div style={{ display: 'flex', alignItems: 'center' }}>
+            <div className={prefix + '-header-logo'}>{logo}</div>
+            {switchSchema}
+          </div>
           <div className={prefix + '-header-actions'}>{actions}</div>
         </div>
         <div className={prefix}>{props.children}</div>
@@ -40,11 +40,7 @@ const StudioPanelInternal: React.FC<IStudioPanelProps> = ({
 
 export const StudioPanel: React.FC<IStudioPanelProps> = (props) => {
   return (
-    <Layout
-      theme={props.theme}
-      prefixCls={props.prefixCls}
-      position={props.position}
-    >
+    <Layout theme={props.theme} prefixCls={props.prefixCls} position={props.position}>
       <StudioPanelInternal {...props} />
     </Layout>
   )

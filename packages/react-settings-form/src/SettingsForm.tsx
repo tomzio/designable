@@ -27,19 +27,14 @@ const GlobalState = {
 export const SettingsForm: React.FC<ISettingFormProps> = observer(
   (props) => {
     const workbench = useWorkbench()
-    const currentWorkspace =
-      workbench?.activeWorkspace || workbench?.currentWorkspace
+    const currentWorkspace = workbench?.activeWorkspace || workbench?.currentWorkspace
     const currentWorkspaceId = currentWorkspace?.id
     const operation = useOperation(currentWorkspaceId)
     const node = useSelectedNode(currentWorkspaceId)
     const selected = useSelected(currentWorkspaceId)
     const prefix = usePrefix('settings-form')
     const schema = node?.designerProps?.propsSchema
-    const isEmpty = !(
-      node &&
-      node.designerProps?.propsSchema &&
-      selected.length === 1
-    )
+    const isEmpty = !(node && node.designerProps?.propsSchema && selected.length === 1)
     const form = useMemo(() => {
       return createForm({
         initialValues: node?.designerProps?.defaultProps,
@@ -55,26 +50,18 @@ export const SettingsForm: React.FC<ISettingFormProps> = observer(
     const render = () => {
       if (!isEmpty) {
         return (
-          <div
-            className={cls(prefix, props.className)}
-            style={props.style}
-            key={node.id}
-          >
+          <div className={cls(prefix, props.className)} style={props.style} key={node.id}>
             <SettingsFormContext.Provider value={props}>
               <Form
                 form={form}
                 colon={false}
-                labelWidth={120}
+                labelWidth={90}
                 labelAlign="left"
                 wrapperAlign="right"
                 feedbackLayout="none"
                 tooltipLayout="text"
               >
-                <SchemaField
-                  schema={schema}
-                  components={props.components}
-                  scope={{ $node: node, ...props.scope }}
-                />
+                <SchemaField schema={schema} components={props.components} scope={{ $node: node, ...props.scope }} />
               </Form>
             </SettingsFormContext.Provider>
           </div>

@@ -49,8 +49,22 @@ export default {
     // new BundleAnalyzerPlugin()
   ],
   devServer: {
+    contentBase: path.join(__dirname, '../public'),
     host: '127.0.0.1',
     open: true,
     port: PORT,
+    proxy: {
+      '/formilyschema': {
+        target: 'http://localhost:3200/formilyschema',
+        changeOrigin: true,
+        ws: true,
+      },
+      '/his': {
+        // target: 'http://10.227.253.249:9800/',
+        target: 'http://10.227.16.12/',
+        changeOrigin: true,
+        ws: true,
+      },
+    },
   },
 }
