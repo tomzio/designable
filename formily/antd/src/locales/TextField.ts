@@ -7,6 +7,7 @@ export const TextField = {
       'x-component-props': {
         placeholder: '文本占位',
         tooltip: 'Hint提示信息',
+        copyable: 'Hint拷贝',
         color: '文本颜色',
         icon: '图标前缀',
         iconSize: '图标大小',
@@ -19,6 +20,7 @@ export const TextField = {
       'x-component-props': {
         placeholder: 'Placeholder',
         tooltip: 'Hint Tooltip',
+        copyable: 'Hint Copy',
         color: 'Color',
         icon: 'Icon',
         iconSize: 'Icon Size',

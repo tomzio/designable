@@ -16,6 +16,14 @@ export const TextField: ISchema = {
         include: ['EXPRESSION'],
       },
     },
+    copyable: {
+      type: 'boolean',
+      'x-decorator': 'FormItem',
+      'x-component': 'Switch',
+      'x-component-props': {
+        defaultChecked: true,
+      },
+    },
     color: {
       type: 'string',
       'x-decorator': 'FormItem',

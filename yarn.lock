@@ -1380,23 +1380,6 @@
   resolved "https://registry.yarnpkg.com/@bloomberg/record-tuple-polyfill/-/record-tuple-polyfill-0.0.3.tgz#0b03d18b88a30894caab14abd669b1cbbf47b843"
   integrity sha512-sBnCqW0nqofE47mxFnw+lvx6kzsQstwaQMVkh66qm/A6IlsnH7WsyGuVXTou8RF2wL4W7ybOoHPvP2WgIo6rhQ==
 
-"@brickio/ui@^0.1.2-beta.2":
-  version "0.1.2-beta.2"
-  resolved "http://npm.karrytech.com/@brickio%2fui/-/ui-0.1.2-beta.2.tgz#c2c8807482dde620974a30dade431ba7514a0762"
-  integrity sha512-+anmmk7SioOiGY/JMyj+onk3fA3f0Kz9Z20r8af64JmLu3UOdL/3iC5XvZKf5g1JdFGPoalJVM2MuS3A9RyzEw==
-  dependencies:
-    "@ant-design/icons" "^4.8.0"
-    "@brickio/utils" "^0.0.4"
-    antd "4.10.3"
-    classnames "^2.3.2"
-    date-fns "^2.29.3"
-    dayjs "^1.11.7"
-    lodash-es "^4.17.21"
-    prop-types "^15.8.1"
-    qrcode.react "^3.1.0"
-    rc-scrollbars "^1.1.5"
-    react-color "^2.19.3"
-
 "@brickio/ui@^0.1.3":
   version "0.1.3"
   resolved "http://npm.karrytech.com/@brickio%2fui/-/ui-0.1.3.tgz#6876c972b0c335c70ecc1542445c8d51fbbb6fea"
@@ -3844,44 +3827,10 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
-"@webhis/shared@^0.1.2-beta.2":
-  version "0.1.2-beta.2"
-  resolved "http://npm.karrytech.com/@webhis%2fshared/-/shared-0.1.2-beta.2.tgz#cbc6d56870c61764e0faa9c588d7ebadfe1c1e02"
-  integrity sha512-4EQOQTDaG+rRZRDa/vpDHDkVVD1YV+bJftYAOl330Hg1UvVqZQNZTKYNzcK03LQJFOCNPK4N8JAIsLZNav6/XQ==
-  dependencies:
-    "@antv/data-set" "^0.11.4"
-    "@brickio/ui" "^0.1.2-beta.2"
-    "@brickio/utils" "^0.0.4"
-    "@dnd-kit/core" "^6.0.8"
-    "@dnd-kit/sortable" "^7.0.2"
-    "@dnd-kit/utilities" "^3.2.1"
-    "@formily/antd" "^2.0.2"
-    "@formily/core" "^2.0.2"
-    "@formily/react" "^2.0.2"
-    "@monaco-editor/react" "^4.4.5"
-    ag-grid-community "^25.3.0"
-    ag-grid-react "^25.3.0"
-    bizcharts "^4.0.11"
-    braft-editor "^2.3.9"
-    core-js "^3.6.5"
-    enquire.js "^2.1.6"
-    exceljs "^4.3.0"
-    js-base64 "^3.3.1"
-    js-md5 "^0.7.3"
-    jsonpath "^1.0.2"
-    jspdf "^2.5.1"
-    pdfobject "^2.1.1"
-    photoswipe "^4.1.3"
-    pinyin4js "^1.3.18"
-    postal "^2.0.5"
-    qs "^6.9.4"
-    react-resizable "^1.10.1"
-    umi-request "^1.3.5"
-
-"@webhis/shared@^0.1.4":
-  version "0.1.4"
-  resolved "http://npm.karrytech.com/@webhis%2fshared/-/shared-0.1.4.tgz#af1875464c6c243924cc935f5ae5c4dc534cd444"
-  integrity sha512-VCe5yTCqB0j4gFrjIA72wWYfjU/z2G6rec2LMTOH9G8y5A6fhcWXh/Fy2Yu0vzf2hRQcH8EEF+4P+jCc9izvhQ==
+"@webhis/shared@^0.1.5-beta.0":
+  version "0.1.5-beta.0"
+  resolved "http://npm.karrytech.com/@webhis%2fshared/-/shared-0.1.5-beta.0.tgz#607f0e77ab3b41fc1c88e7050b685be2c19c424e"
+  integrity sha512-EZGFYt2n1V+QeY4TcJYj33JQ60J/JjCDffWfLl6wx0rzP94bcC16U30UrWhQBDJY+RCADeFXm2vN1CRTOuMmfg==
   dependencies:
     "@antv/data-set" "^0.11.4"
     "@brickio/ui" "^0.1.3"

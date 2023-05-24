@@ -45,23 +45,58 @@ const Text: React.FC<{
 }
 
 const GestionalTextField = (props) => {
-  return <TextField {...props} tooltip="自定义孕周Hint" />
+  return (
+    <TextField
+      {...props}
+      value={props.placeholder}
+      copyable={false}
+      tooltip="自定义孕周占位,实际效果请在webhis中查看"
+    />
+  )
 }
 
 const ChargeTextField = (props) => {
-  return <TextField {...props} tooltip="自定义费用Hint" />
+  return (
+    <TextField
+      {...props}
+      value={props.placeholder}
+      copyable={false}
+      tooltip="自定义费用占位,实际效果请在webhis中查看"
+    />
+  )
 }
 
 const MedicalAlertTextField = (props) => {
-  return <TextField {...props} tooltip="自定义医疗禁忌Hint" />
+  return (
+    <TextField
+      {...props}
+      value={props.placeholder}
+      copyable={false}
+      tooltip="自定义医疗禁忌占位,实际效果请在webhis中查看"
+    />
+  )
 }
 
 const AllergyTextField = (props) => {
-  return <TextField {...props} tooltip="自定义过敏信息Hint" />
+  return (
+    <TextField
+      {...props}
+      value={props.placeholder}
+      copyable={false}
+      tooltip="自定义过敏信息占位,实际效果请在webhis中查看"
+    />
+  )
 }
 
 const PackageTextField = (props) => {
-  return <TextField {...props} value={props.placeholder} tooltip="自定义患者套餐Hint" />
+  return (
+    <TextField
+      {...props}
+      value={props.placeholder}
+      copyable={false}
+      tooltip="自定义患者套餐占位,实际效果请在webhis中查看"
+    />
+  )
 }
 
 const SchemaField = createSchemaField({
