@@ -29,7 +29,9 @@ import {
   ArrayTable,
   ArrayCards,
 } from '@formily/antd'
-import { Card, Slider, Rate } from 'antd'
+import KtIcon from '@webhis/shared/es/ui/icon'
+import TextField from '@webhis/shared/es/ui/wpb/TextField'
+import { Card, Slider, Rate, Tag } from 'antd'
 import { TreeNode } from '@designable/core'
 import { transformToSchema } from '@designable/formily-transformer'
 
@@ -40,6 +42,26 @@ const Text: React.FC<{
 }> = ({ value, mode, content, ...props }) => {
   const tagName = mode === 'normal' || !mode ? 'div' : mode
   return React.createElement(tagName, props, value || content)
+}
+
+const GestionalTextField = (props) => {
+  return <TextField {...props} tooltip="自定义孕周Hint" />
+}
+
+const ChargeTextField = (props) => {
+  return <TextField {...props} tooltip="自定义费用Hint" />
+}
+
+const MedicalAlertTextField = (props) => {
+  return <TextField {...props} tooltip="自定义医疗禁忌Hint" />
+}
+
+const AllergyTextField = (props) => {
+  return <TextField {...props} tooltip="自定义过敏信息Hint" />
+}
+
+const PackageTextField = (props) => {
+  return <TextField {...props} value={props.placeholder} tooltip="自定义患者套餐Hint" />
 }
 
 const SchemaField = createSchemaField({
@@ -58,8 +80,15 @@ const SchemaField = createSchemaField({
     Editable,
     Input,
     Text,
+    TextField,
+    GestionalTextField: GestionalTextField,
+    PackageTextField: PackageTextField,
+    ChargeTextField,
+    MedicalAlertTextField,
+    AllergyTextField,
     NumberPicker,
     Switch,
+    KtIcon,
     Password,
     PreviewText,
     Radio,

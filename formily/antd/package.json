@@ -20,8 +20,8 @@
     "build": "rimraf -rf lib esm dist && npm run build:cjs && npm run build:esm && ts-node copy",
     "build:cjs": "tsc --project tsconfig.build.json",
     "build:esm": "tsc --project tsconfig.build.json --module es2015 --outDir esm",
-    "build:playground": "webpack-cli --config playground/webpack.prod.ts",
-    "start": "webpack-dev-server --config playground/webpack.dev.ts"
+    "build:playground": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack-cli --config playground/webpack.prod.ts",
+    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server --config playground/webpack.dev.ts"
   },
   "devDependencies": {
     "@designable/react-settings-form": "1.0.0-beta.45",
@@ -54,7 +54,7 @@
     "@formily/shared": "^2.0.2",
     "@types/react": ">=16.8.0 || >=17.0.0",
     "@types/react-dom": ">=16.8.0 || >=17.0.0",
-    "antd": "^4.0.0",
+    "antd": "4.10.3",
     "react": ">=16.8.0 || >=17.0.0",
     "react-dom": ">=16.8.0",
     "react-is": ">=16.8.0 || >=17.0.0"
@@ -63,7 +63,9 @@
     "@designable/core": "1.0.0-beta.45",
     "@designable/formily-setters": "1.0.0-beta.45",
     "@designable/formily-transformer": "1.0.0-beta.45",
-    "@designable/react": "1.0.0-beta.45"
+    "@designable/react": "1.0.0-beta.45",
+    "@webhis/shared": "^0.1.4",
+    "axios": "^1.4.0"
   },
   "publishConfig": {
     "access": "public"
