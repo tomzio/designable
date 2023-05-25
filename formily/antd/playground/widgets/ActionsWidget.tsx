@@ -29,7 +29,7 @@ export const ActionsWidget = observer<{ schemaMode: string }>(({ schemaMode }) =
       ) : (
         <Button
           onClick={() => {
-            const dialog = FormDialog('登录表单', LoginForm)
+            const dialog = FormDialog('登录', LoginForm)
             dialog
               .forOpen((payload, next) => {
                 next({

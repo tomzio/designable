@@ -155,8 +155,10 @@ export const useAuth = () => {
   }
 
   const logout = async (): Promise<boolean> => {
+    const sessionToken = context.accessToken || ''
     const response = await fetch('/his/app/auth/logout', {
       method: 'POST',
+      headers: { sessionToken },
     })
 
     sessionStorage.removeItem('sessionToken')
