@@ -10,7 +10,7 @@ import { AllLocales } from '../../locales'
 import { observable } from '@formily/reactive'
 
 const Icon = createIcon({
-  scriptUrl: '/kticon/font_1731772_jdm51oxie2.js',
+  scriptUrl: '/kticon/iconfont.js',
   prefix: 'kticon',
 })
 

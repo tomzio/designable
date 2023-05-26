@@ -6,6 +6,132 @@
   "description": "kthis/webhis",
   "glyphs": [
     {
+      "icon_id": "35598045",
+      "name": "examine and approve",
+      "font_class": "a-examineandapprove",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "35523548",
+      "name": "High priced consumables",
+      "font_class": "a-Highpricedconsumables",
+      "unicode": "e804",
+      "unicode_decimal": 59396
+    },
+    {
+      "icon_id": "35446592",
+      "name": "Batch generation scheduling",
+      "font_class": "a-Batchgenerationscheduling",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "35406742",
+      "name": "quote",
+      "font_class": "quote1",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "35330174",
+      "name": "next stage",
+      "font_class": "a-nextstage",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "35329809",
+      "name": "Jump Path",
+      "font_class": "a-JumpPath",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "35329810",
+      "name": "Medical evaluation",
+      "font_class": "a-Medicalevaluation",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "35329811",
+      "name": "exit path",
+      "font_class": "a-exitpath",
+      "unicode": "e7ff",
+      "unicode_decimal": 59391
+    },
+    {
+      "icon_id": "35329812",
+      "name": "Path details",
+      "font_class": "a-Pathdetails",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "35300018",
+      "name": "emergency surgery",
+      "font_class": "a-emergencysurgery",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "35300019",
+      "name": "Viral surgery",
+      "font_class": "a-Viralsurgery",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "35299954",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "35299912",
+      "name": "Anesthesia arrangements",
+      "font_class": "a-Anesthesiaarrangements",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "35299913",
+      "name": "Surgical arrangements",
+      "font_class": "a-Surgicalarrangements",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "35299790",
+      "name": "Postoperative registration",
+      "font_class": "a-Postoperativeregistration",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "35299791",
+      "name": "Material consumption",
+      "font_class": "a-Materialconsumption",
+      "unicode": "e7f6",
+      "unicode_decimal": 59382
+    },
+    {
+      "icon_id": "35299792",
+      "name": "Surgical billing",
+      "font_class": "a-Surgicalbilling",
+      "unicode": "e7f7",
+      "unicode_decimal": 59383
+    },
+    {
+      "icon_id": "35272212",
+      "name": "drag",
+      "font_class": "drag",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
       "icon_id": "35231603",
       "name": "No billing Drug testing",
       "font_class": "a-NobillingDrugtesting",
