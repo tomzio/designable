@@ -31,6 +31,7 @@
     "@formily/reactive": "^2.0.2",
     "@formily/shared": "^2.0.2",
     "autoprefixer": "^9.0",
+    "compression-webpack-plugin": "4.0.0",
     "file-loader": "^5.0.2",
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "^3.2.0",
