@@ -60,7 +60,8 @@ export default {
         ws: true,
       },
       '/his': {
-        target: 'http://10.227.253.249:9800/',
+        // target: 'http://10.227.253.249:9800/',
+        target: 'http://10.227.16.12/',
         changeOrigin: true,
         ws: true,
       },

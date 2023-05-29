@@ -11,7 +11,7 @@ export const TextField = (props) => {
   return (
     <FormilyTextField
       {...props}
-      className={cls(props.className, 'dn-text')}
+      className={cls(props.className, 'dn-text', 'text-ellipsis')}
       data-content-editable="x-component-props.placeholder"
     />
   )

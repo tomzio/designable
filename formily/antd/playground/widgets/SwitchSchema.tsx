@@ -6,6 +6,7 @@ import { loadInitialSchema } from '../service'
 import { observer } from '@formily/react'
 import { isEmpty } from '@formily/shared'
 import { useAuth } from '../useAuth'
+import { message } from 'antd'
 
 export interface ISchemaData {
   id?: number
@@ -43,7 +44,6 @@ const SwitchSchema = observer<{ schemaMode: string; setSchemaMode: Function }>((
   }, [isAuthenticated])
 
   const handleChangeSchema = (mode) => {
-    setSchemaMode(mode)
     if (isAuthenticated) {
       const sessionToken = accessToken || ''
       // get(`/his/app/wpbschema/getschema?wpbMode=${mode}`)
@@ -60,10 +60,15 @@ const SwitchSchema = observer<{ schemaMode: string; setSchemaMode: Function }>((
             try {
               console.log(`加载 ${mode} schema`, currentSchema)
               designer.setCurrentTree(transformToTreeNode(currentSchema))
+              setSchemaMode(mode)
             } catch (error) {
               console.error('加载schema出错!', error)
             }
           }
+        })
+        .catch((err) => {
+          message.error(`加载schema出错! ${err?.message}`)
+          console.log(err)
         })
     } else {
       setLoading(true)
@@ -87,8 +92,8 @@ const SwitchSchema = observer<{ schemaMode: string; setSchemaMode: Function }>((
       loading={loading}
       onChange={handleChangeSchema}
       disabled={!isAuthenticated}
-      onClear={handleClearSchema}
-      allowClear
+      // onClear={handleClearSchema}
+      // allowClear
     />
   )
 })
